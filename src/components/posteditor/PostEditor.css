@@ -1,0 +1,31 @@
+.postEditor {
+    margin: 20px auto;
+    width:80%;
+    border: 0.8px solid gray;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+input[type=text]{
+    width: 100% !important;
+}
+
+.contents {
+    width: 100%;
+    margin-top: 20px;
+    font-size: 18px;
+    height: 150px;
+    padding: 5px 10px;
+}
+
+.Save {
+    width: 8%;
+    margin: 10px 15px 15px 0;
+    font-family: cursive;
+}
+
+.CancelPost {
+    width: 8%;
+    margin: -5px 0 0 0;
+    font-family: cursive;
+}

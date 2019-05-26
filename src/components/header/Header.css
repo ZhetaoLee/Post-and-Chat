@@ -1,0 +1,85 @@
+.header {
+    height: 60px;
+    background: white;
+    font-family: cursive;
+    border-bottom: 0.5px solid gray;
+    position: sticky;
+    top: 0px;
+}
+
+.appName{
+    text-align: center;
+    color: black;
+    float: left;
+    height: 100%;
+    width: 30%;
+    font-size: 30px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.search{
+    height:100%;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.wrapper{
+    float: right;
+    height: 40px;
+    width: 10%;
+    margin: 10px 10%;
+    margin-right: 10%;
+    font-family: cursive;
+    font-size: 15px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.signup{
+    padding-right: 20px;
+}
+
+.login{
+    padding-left: 20px;
+}
+
+input[type=text]{
+    height: 35px;
+    padding-left: 10px;
+    width:80%;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+.fa-search {
+    margin-right: 15px;
+}
+
+.fa-cog {
+    color: black;
+    float: right;
+    width: 5%;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.loginblock {
+    float: right;
+    height: 100%;
+    width: 30%;
+    font-family: cursive;
+    font-size: 18px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.ChangeBackGround{
+    background-color: rgb( 240, 241, 243);
+}

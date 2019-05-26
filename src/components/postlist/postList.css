@@ -1,0 +1,16 @@
+.PostList {
+    margin: auto;
+    width: 80%;
+}
+
+.newPost {
+    margin-top: 20px;
+    margin-left: 2.5%;
+    font-family: cursive;
+}
+
+.weatherError {
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 10%;
+}

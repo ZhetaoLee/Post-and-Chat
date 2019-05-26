@@ -1,0 +1,40 @@
+.Item {
+    margin: 20px auto;
+    width:80%;
+    border: 0.5px solid gray;
+    padding: 15px;
+}
+
+.ItemBold {
+    margin: 20px auto;
+    width:80%;
+    border: 1.5px solid gray;
+    padding: 14px;
+}
+.author {
+    font-size: 20px;
+}
+
+.title {
+    font-size: 25px;
+    padding: 5px 0px;
+}
+
+.fa-thumbs-o-up {
+    padding-left: 2px;
+    font-size: 22px;
+    color: blue;
+}
+
+.fa-thumbs-o-down {
+    font-size: 22px;
+    color: red;
+}
+
+.loading {
+    height: 600px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    font-size: 30px;
+}

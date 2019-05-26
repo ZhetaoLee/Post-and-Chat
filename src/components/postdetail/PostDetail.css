@@ -1,0 +1,59 @@
+.postDetail {
+    width:80%;
+    margin: auto;
+}
+
+.postTitle {
+    margin: 15px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.solidLine {
+    border: 0.5px solid grey;
+    width: 100%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.postAuthor {
+    margin-left: 2%;
+    font-size: 22px;
+    display: inline-block;
+    font-family: Arial;
+}
+
+.postDate {
+    float: right;
+    font-size: 18px;
+    margin-right: 2%;
+    font-family: Arial;
+}
+
+.leftMargin {
+    margin-left: 2%;
+}
+
+.postContents {
+    margin: 30px 2%;
+    font-family: Arial;
+    font-size: 18px;
+    min-height: 200px;
+}
+
+.postComments {
+    font-family: Arial;
+    margin: 15px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.loading {
+    height: 600px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    font-size: 30px;
+}
